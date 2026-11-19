@@ -1,8 +1,8 @@
 # 18 November 2026 — World News in One Image
 
-[![make.fun](https://img.shields.io/badge/make.fun-news--image--20261118-blue)](https://make.fun/bounty/news-image-20261118)
-[![date](https://img.shields.io/badge/date-18%20November%202026-darkblue)](https://make.fun/bounty/news-image-20261118)
-[![prize](https://img.shields.io/badge/prize-%24250-gold)](https://make.fun/bounty/news-image-20261118)
+[![make.fun · news-image-20261118](https://make.fun/badge/news-image-20261118.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![rank](https://make.fun/badge/news-image-20261118/Ger-Wer/news-image-18nov/rank.svg)](https://make.fun/bounty/news-image-20261118/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![reward](https://make.fun/badge/news-image-20261118/Ger-Wer/news-image-18nov/reward.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
 
 One 1024×1024 image summing up the world news of Wednesday 18 November 2026 —
 a newspaper front page drawn procedurally with plain Node.js (standard library
